@@ -3,13 +3,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Joey Lau Joe Ying</h1>
-<h3 align="center">A Second Year Data Analytics Student</h3>
+
 
 
 
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif">
 
-- 💻 **APU Google Developer Student Club Core Committee**
 
 - 📍 **Malaysia**
 

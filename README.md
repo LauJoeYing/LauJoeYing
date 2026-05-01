@@ -10,15 +10,19 @@
 
 </div>
 
-<br />
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=laujoeying&style=for-the-badge&color=AEDCE6&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/laujoeying?style=for-the-badge&color=AEDCE6&labelColor=EAF4F2&label=FOLLOWERS" />
-<img src="https://img.shields.io/badge/STATUS-open%20to%20devrel%20%7C%20community%20%7C%20growth-9FD2DE?style=for-the-badge&labelColor=EAF4F2" />
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/laujoeying">
+    <img src="https://img.shields.io/badge/LinkedIn-9FD2DE?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=EAF4F2" />
+  </a>
+  &nbsp;
+  <a href="mailto:joeying0712@gmail.com">
+    <img src="https://img.shields.io/badge/Email-BFE3EA?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EAF4F2" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/0xjoeylau">
+    <img src="https://img.shields.io/badge/X-9FD2DE?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=EAF4F2" />
+  </a>
+</p>
 
 <br />
 
@@ -193,20 +197,6 @@ Making sure users don't just sign up — they stay.
 
 <p align="center">
   <img width="85%" src="https://capsule-render.vercel.app/api?type=speech&height=180&color=gradient&customColorList=15,18,27&text=Say%20Hi&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DevRel%20%E2%80%A2%20Community%20%E2%80%A2%20Growth%20%E2%80%A2%20Accounts&descSize=18&descAlignY=62&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/laujoeying">
-    <img src="https://img.shields.io/badge/LinkedIn-9FD2DE?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=EAF4F2" />
-  </a>
-  &nbsp;
-  <a href="mailto:joeying0712@gmail.com">
-    <img src="https://img.shields.io/badge/Email-BFE3EA?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EAF4F2" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/0xjoeylau">
-    <img src="https://img.shields.io/badge/X-9FD2DE?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=EAF4F2" />
-  </a>
 </p>
 
 <br />

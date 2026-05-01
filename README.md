@@ -164,20 +164,52 @@ Making sure users don't just sign up — they stay.
 
 <b>𝑫𝒆𝒗𝒓𝒆𝒍 & 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚</b><br /><br />
 <img src="https://img.shields.io/badge/Discord-9FD2DE?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=EAF4F2" />
-<img src="https://img.shields.io/badge/Notion-AEDCE6?style=for-the-badge&logo=notion&logoColor=ffffff&labelColor=EAF4F2" />
-<img src="https://img.shields.io/badge/GitHub-BFE3EA?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=EAF4F2" />
-<img src="https://img.shields.io/badge/Figma-CFECEF?style=for-the-badge&logo=figma&logoColor=ffffff&labelColor=EAF4F2" />
-<img src="https://img.shields.io/badge/HubSpot-D6EEF2?style=for-the-badge&logo=hubspot&logoColor=ffffff&labelColor=EAF4F2" />
-<img src="https://img.shields.io/badge/Intercom-EAF4F2?style=for-the-badge&logo=intercom&logoColor=000000&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Builder_Calls-AEDCE6?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Jam_Sessions-BFE3EA?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Telegram-CFECEF?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Integration_Support-D6EEF2?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Loom-EAF4F2?style=for-the-badge&logo=loom&logoColor=3A7C8C&labelColor=D6EEF2" />
+<img src="https://img.shields.io/badge/Video_Walkthroughs-9FD2DE?style=for-the-badge&logo=loom&logoColor=ffffff&labelColor=EAF4F2" />
 
 <br />
 
-<b>𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑫𝒂𝒕𝒂</b><br /><br />
+<b>𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔</b><br /><br />
 <img src="https://img.shields.io/badge/Python-9FD2DE?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=EAF4F2" />
 <img src="https://img.shields.io/badge/JavaScript-AEDCE6?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=EAF4F2" />
-<img src="https://img.shields.io/badge/Solidity-BFE3EA?style=for-the-badge&logo=solidity&logoColor=ffffff&labelColor=EAF4F2" />
-<img src="https://img.shields.io/badge/MySQL-CFECEF?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=EAF4F2" />
-<img src="https://img.shields.io/badge/PowerBI-D6EEF2?style=for-the-badge&logo=powerbi&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/TypeScript-BFE3EA?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Java-CFECEF?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/C-D6EEF2?style=for-the-badge&logo=c&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/C++-9FD2DE?style=for-the-badge&logo=cplusplus&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/C%23-AEDCE6?style=for-the-badge&logo=csharp&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/R-BFE3EA?style=for-the-badge&logo=r&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Rust-CFECEF?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=EAF4F2" />
+
+<br />
+
+<b>𝑫𝒂𝒕𝒂 & 𝑨𝑰</b><br /><br />
+<img src="https://img.shields.io/badge/MySQL-9FD2DE?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/MongoDB-AEDCE6?style=for-the-badge&logo=mongodb&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/SQL_Server-BFE3EA?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/PowerBI-CFECEF?style=for-the-badge&logo=powerbi&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Tableau-D6EEF2?style=for-the-badge&logo=tableau&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/TensorFlow-9FD2DE?style=for-the-badge&logo=tensorflow&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/PyTorch-AEDCE6?style=for-the-badge&logo=pytorch&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Pandas-BFE3EA?style=for-the-badge&logo=pandas&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/scikit--learn-CFECEF?style=for-the-badge&logo=scikitlearn&logoColor=ffffff&labelColor=EAF4F2" />
+
+<br />
+
+<b>𝑾𝒆𝒃3 & 𝑩𝒍𝒐𝒄𝒌𝒄𝒉𝒂𝒊𝒏</b><br /><br />
+<img src="https://img.shields.io/badge/Solidity-9FD2DE?style=for-the-badge&logo=solidity&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Ethereum-AEDCE6?style=for-the-badge&logo=ethereum&logoColor=ffffff&labelColor=EAF4F2" />
+
+<br />
+
+<b>𝑫𝒆𝒔𝒊𝒈𝒏 & 𝑷𝒓𝒐𝒅𝒖𝒄𝒕</b><br /><br />
+<img src="https://img.shields.io/badge/Figma-9FD2DE?style=for-the-badge&logo=figma&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Photoshop-AEDCE6?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Illustrator-BFE3EA?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff&labelColor=EAF4F2" />
+<img src="https://img.shields.io/badge/Canva-CFECEF?style=for-the-badge&logo=canva&logoColor=ffffff&labelColor=EAF4F2" />
 
 </p>
 

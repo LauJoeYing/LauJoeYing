@@ -26,13 +26,12 @@
 
 
 
-## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
+## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 
 
 I live at the intersection of *people, products, and technology*. Bringing a builder's empathy to every developer I onboard and every community I steward. I enjoy building the things I wish existed when I was learning: clearer tutorials, smoother onboarding flows, practical demos.
 
 People often describe me as approachable, patient, and easy to ask “small” questions to. I’ve onboarded developer teams, supported communities, built workshop demos, written tutorials, and answered enough Discord questions to know that trust is built in tiny moments: a clear answer, a useful example, or a bug fixed before someone starts questioning their entire life.
 
-	⁠"Trust is the unit of value. Everything else compounds from there."
 
 <br />
 
@@ -66,7 +65,7 @@ People often describe me as approachable, patient, and easy to ask “small” q
 
 good developer experience isn't about more features, it's about fewer moments of confusion.
 
-what I value:
+What I Value:
 
 - onboarding that feels obvious
 - docs that don't waste time
@@ -74,9 +73,9 @@ what I value:
 - communities where people feel comfortable asking "basic" questions
 - feedback loops that quietly make the product better
 
-trust gets built in small moments: a clear answer, a working example, a fast reply, a bug fixed before someone starts questioning their entire career. everything else compounds from there.
+Trust gets built in small moments: a clear answer, a working example, a fast reply, a bug fixed before someone starts questioning their entire career. everything else compounds from there.
 
-<br />
+<br /> 
 
 ---
 
@@ -108,7 +107,7 @@ trust gets built in small moments: a clear answer, a working example, a fast rep
 </td>
 <td align="center">
 <b>∞</b><br />
-<sub>discord questions answered</sub>
+<sub>Discord/ Telegram questions answered</sub>
 </td>
 </tr>
 </table>
@@ -127,7 +126,7 @@ I don't assume developers are confused — I assume the product wasn't clear eno
 - listen before optimizing
 - make the first five minutes feel less intimidating
 
-if something is still confusing after that, it usually becomes a flowchart.
+If something is still confusing after that, it usually becomes a flowchart.
 
 <br />
 
@@ -139,20 +138,20 @@ if something is still confusing after that, it usually becomes a flowchart.
 <tr>
 <td width="50%" valign="top">
 
-#### devrel
-helping developers succeed without needing ten tabs of docs open.
+#### Devrel
+Helping developers succeed without needing ten tabs of docs open.
 
-#### community
-building spaces where people ask questions early, before they're stuck.
+#### Community
+Building spaces where people ask questions early, before they're stuck.
 
 </td>
 <td width="50%" valign="top">
 
-#### growth
-turning onboarding friction into adoption.
+#### Growth
+Turning onboarding friction into adoption.
 
-#### accounts
-making sure users don't just sign up — they stay.
+#### Accounts
+Making sure users don't just sign up — they stay.
 
 </td>
 </tr>

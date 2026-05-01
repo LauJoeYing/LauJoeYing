@@ -1,18 +1,16 @@
 <!-- joey lau · devrel & community -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&color=gradient&customColorList=38,38,37,37,36&text=Joey%20Lau&fontSize=50&fontColor=FFFFFF&fontAlignY=46&desc=DevRel%C2%B7%20Community%20%C2%B7%20Growth%20%F0%9F%8C%8A&descSize=23&descAlignY=70&animation=fadeInUp" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=15,18,27&text=Joey%20Lau&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=DevRel%C2%B7%20Community%20%C2%B7%20Growth%20&descSize=20&descAlignY=60&animation=fadeIn" />
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&duration=3200&pause=1000&color=7FC2D3&center=true&vCenter=true&multiline=true&width=720&height=80&lines=building+demos+developers+actually+run;)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=400&size=20&duration=3200&pause=1000&color=7FC2D3&center=true&vCenter=true&multiline=true&width=720&height=50&lines=building+demos+developers+actually+run;)](#)
 
 </div>
 
 <br />
-
-
 
 <div align="center">
 
@@ -43,25 +41,23 @@ People often describe me as approachable, patient, and easy to ask “small” q
 
 <br />
 
-### 𝐅𝐨𝐜𝐮𝐬 𝐀𝐫𝐞𝐚𝐬
+## 𝑭𝒐𝒄𝒖𝒔 𝑨𝒓𝒆𝒂𝒔
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Developer_Relations-9FD2DE?style=for-the-badge&labelColor=EAF4F2" />
-<img src="https://img.shields.io/badge/Community_Building-AEDCE6?style=for-the-badge&labelColor=EAF4F2" />
-<img src="https://img.shields.io/badge/Developer_Onboarding-BFE3EA?style=for-the-badge&labelColor=EAF4F2" />
-<br /><br />
-<img src="https://img.shields.io/badge/Technical_Writing-CFECEF?style=for-the-badge&labelColor=EAF4F2" />
-<img src="https://img.shields.io/badge/Workshops_%26_Demos-D6EEF2?style=for-the-badge&labelColor=EAF4F2" />
-<img src="https://img.shields.io/badge/Growth_Strategy-EAF4F2?style=for-the-badge&labelColor=EAF4F2" />
-
+  <img src="https://img.shields.io/badge/Developer_Relations-AFCBFF?style=for-the-badge&labelColor=F7F9FC" />
+  <img src="https://img.shields.io/badge/Community_Building-CDB4DB?style=for-the-badge&labelColor=F7F9FC" />
+  <img src="https://img.shields.io/badge/Developer_Onboarding-FFC8DD?style=for-the-badge&labelColor=F7F9FC" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Technical_Writing-BDE0FE?style=for-the-badge&labelColor=F7F9FC" />
+  <img src="https://img.shields.io/badge/Workshops_%26_Demos-D0F4DE?style=for-the-badge&labelColor=F7F9FC" />
+  <img src="https://img.shields.io/badge/Growth_Strategy-FDE2E4?style=for-the-badge&labelColor=F7F9FC" />
 </p>
 
 <br />
 
----
 
-### 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐫𝐞 𝐀𝐛𝐨𝐮𝐭
+## 𝑾𝒉𝒂𝒕 𝑰 𝑪𝒂𝒓𝒆 𝑨𝒃𝒐𝒖𝒕
 
 good developer experience isn't about more features, it's about fewer moments of confusion.
 
@@ -77,9 +73,9 @@ Trust gets built in small moments: a clear answer, a working example, a fast rep
 
 <br /> 
 
----
 
-### 𝐒𝐞𝐥𝐞𝐜𝐭𝐞𝐝 𝐈𝐦𝐩𝐚𝐜𝐭
+
+## 𝑺𝒆𝒍𝒆𝒄𝒕𝒆𝒅 𝑰𝒎𝒑𝒂𝒄𝒕
 
 <table align="center">
 <tr>
@@ -114,9 +110,8 @@ Trust gets built in small moments: a clear answer, a working example, a fast rep
 
 <br />
 
----
 
-### 𝐇𝐨𝐰 𝐈 𝐖𝐨𝐫𝐤
+## 𝑯𝒐𝒘 𝑰 𝑾𝒐𝒓𝒌
 
 I don't assume developers are confused — I assume the product wasn't clear enough. so I:
 
@@ -130,27 +125,26 @@ If something is still confusing after that, it usually becomes a flowchart.
 
 <br />
 
----
 
-### 𝐖𝐡𝐚𝐭 𝐈 𝐃𝐨
+## 𝑾𝒉𝒂𝒕 𝑰 𝑫𝒐
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### Devrel
+### Devrel
 Helping developers succeed without needing ten tabs of docs open.
 
-#### Community
+### Community
 Building spaces where people ask questions early, before they're stuck.
 
 </td>
 <td width="50%" valign="top">
 
-#### Growth
+### Growth
 Turning onboarding friction into adoption.
 
-#### Accounts
+### Accounts
 Making sure users don't just sign up — they stay.
 
 </td>
@@ -159,9 +153,8 @@ Making sure users don't just sign up — they stay.
 
 <br />
 
----
 
-### 𝐓𝐨𝐨𝐥𝐬
+## 𝑻𝒐𝒐𝒍𝒔
 
 <p align="center">
 
@@ -173,7 +166,7 @@ Making sure users don't just sign up — they stay.
 <img src="https://img.shields.io/badge/HubSpot-D6EEF2?style=for-the-badge&logo=hubspot&logoColor=ffffff&labelColor=EAF4F2" />
 <img src="https://img.shields.io/badge/Intercom-EAF4F2?style=for-the-badge&logo=intercom&logoColor=000000&labelColor=EAF4F2" />
 
-<br /><br />
+<br />
 
 <b>𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑫𝒂𝒕𝒂</b><br /><br />
 <img src="https://img.shields.io/badge/Python-9FD2DE?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=EAF4F2" />
@@ -186,9 +179,8 @@ Making sure users don't just sign up — they stay.
 
 <br />
 
----
 
-### 𝐀 𝐅𝐞𝐰 𝐓𝐡𝐢𝐧𝐠𝐬 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+## 𝑨 𝑭𝒆𝒘 𝑻𝒉𝒊𝒏𝒈𝒔 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
 - I genuinely enjoy answering "small" questions
 - I think good docs are underrated
@@ -199,20 +191,9 @@ Making sure users don't just sign up — they stay.
 
 <br />
 
----
-
-### 𝙻𝚎𝚝'𝚜 𝚃𝚊𝚕𝚔!
-
-open to roles in **developer relations**, **community**, **growth**, and **account management**.
-
-happy to chat about:
-
-- developer experience
-- onboarding & docs
-- community building
-- or why the demo broke *only* after people joined the call
-
-<br />
+<p align="center">
+  <img width="85%" src="https://capsule-render.vercel.app/api?type=speech&height=180&color=gradient&customColorList=15,18,27&text=Say%20Hi&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DevRel%20%E2%80%A2%20Community%20%E2%80%A2%20Growth%20%E2%80%A2%20Accounts&descSize=18&descAlignY=62&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/laujoeying">
@@ -222,8 +203,30 @@ happy to chat about:
   <a href="mailto:joeying0712@gmail.com">
     <img src="https://img.shields.io/badge/Email-BFE3EA?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EAF4F2" />
   </a>
+  &nbsp;
+  <a href="https://x.com/0xjoeylau">
+    <img src="https://img.shields.io/badge/X-9FD2DE?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=EAF4F2" />
+  </a>
 </p>
 
 <br />
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30,24&height=120&section=footer" width="100%" />
+<p align="center">
+  <b>Open to roles in developer relations, community, growth, and account management.</b>
+</p>
+
+
+Happy to chat about:
+developer experience<br />
+onboarding & docs<br />
+community building<br />
+or why the demo broke <i>only</i> after people joined the call
+</p>
+<br />
+
+ 🪼 ・ 🌸 ・ 🐬 ・ 💗 ・ 🫧 ・ ✨ ・ 🪸 ・ 🐚 ・ 🌊 ・ 🪼 ・ 🌸 ・ 🐬 ・ 💗 ・ 🫧 ・ ✨ ・ 🪸 ・ 🐚 ・ 🌊・🌸 ・ 🐬 ・ 💗 ・ 🫧 ・ ✨ ・ 🪸
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,27&height=130&section=footer" width="100%" />
